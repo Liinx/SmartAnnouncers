@@ -1,0 +1,17 @@
+#Here you store all your messages and yes you can use color codes(&), HEX colors(in v1.16)
+#as well as PlaceholderAPI & MVdWPlaceholderAPI placeholders.
+#DONT put '$' at the start of your message names or they will be ignored by announcers.
+
+test-message: '&aHey this is a test message, fell free to edit it however you want!'
+
+#Here are some plugin messages that you can also edit.
+$no-permission: 'You do not have permission to do that!'
+$announcer-toggled: '%announcer-name% has been %announcer-state%.'
+$reset-limit-oaop: 'Limits for %announcerName% have been reset for %playerName% player.'
+$reset-limit-aaop: 'Limits for all announcers have been reset for %playerName% player.'
+$reset-limit-aaap: 'Limits for all announcers have been reset for all players.'
+$reset-limit-oaap: 'Limits for %announcerName% have been reset for all players.'
+$unknown-command: 'Unknown command!'
+$invalid-announcer: '%announcer-name% does not exist!'
+$invalid-player: '%player-name% does not exist!'
+$plugin-reloaded: 'Plugin reloaded!'
