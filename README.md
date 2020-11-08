@@ -1,6 +1,8 @@
-![alt text](https://i.gyazo.com/a50e3bd4c54ccc8e48e196b9a49bb0bd.png "Banner")
+<h1 align="center" >Smart Announcers</h1>
+<p align="center">
+  <img src="https://i.gyazo.com/a50e3bd4c54ccc8e48e196b9a49bb0bd.png">
+</p>
 
-# Smart Announcers
 
 Smart Announcers is a announcer plugin for Bukkit/Spigot/Paper servers that allows the server to broadcast custom messages with many different features to customize it to your own needs. Its lightweight, optimized and highly configurable.
 
