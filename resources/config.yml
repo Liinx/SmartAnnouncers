@@ -1,0 +1,10 @@
+#Welcome to the configuration file for Smart Announcers here you can further customize Smart Announcers.
+
+#Prefix that will be set before every message send in the chat.
+announcement-prefix: '&7&l[&a&lSA&7&l]&r '
+
+#Should the player hear a nice sound when they receive the announcement
+play-sound-on-announcement: true
+
+#Should operators be notified if there is a new version of the plugin out when they join the server.
+notify-operator-new-version: true
