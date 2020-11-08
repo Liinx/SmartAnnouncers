@@ -1,0 +1,4 @@
+announcers:
+  test-announcer:
+    message-name: 'test-message'
+    delay: 60
