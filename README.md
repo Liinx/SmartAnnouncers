@@ -1,4 +1,3 @@
-<h1 align="center" >Smart Announcers</h1>
 <p align="center">
   <img src="https://i.gyazo.com/39aff424262d12f5d45178371a7631c4.png">
 </p>  
@@ -11,4 +10,3 @@ Smart Announcers is a announcer plugin for Bukkit/Spigot/Paper servers that allo
 * You can check out the plugin [here](https://www.spigotmc.org/resources/85575/) if you wish to purchase it.
 * If you wish to learn more about the plugin you can check out the [wiki](https://github.com/Liinx/SmartAnnouncers/wiki).
 * If you need support you can join my [discord](https://discord.gg/dmhJsrJ).
-
