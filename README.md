@@ -1,6 +1,6 @@
 <h1 align="center" >Smart Announcers</h1>
 <p align="center">
-  <img src="https://i.gyazo.com/a50e3bd4c54ccc8e48e196b9a49bb0bd.png">
+  <img src="https://i.gyazo.com/39aff424262d12f5d45178371a7631c4.png">
 </p>  
 <br>
 
